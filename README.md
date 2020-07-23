@@ -14,4 +14,4 @@ My First Repository
 - [x] Create a Javascript File
 - [x] Build a Personal Website
 
-[GOOGLE](https://www.google.com/)
+[My Website Here](https://tristanjoo.github.io/MyFirstRepo/)
