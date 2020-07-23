@@ -1,0 +1,55 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    width: 100vw;
+    background-color: black;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+
+li:hover{
+    color: red;
+}
+
+h1{
+    color: red;
+}
+p{
+    color: blue;
+}
+
+h2{
+    color: green;
+}
+
+#mediaSectionH2 {
+    color: orange;
+    text-decoration: underline;
+}
+table,
+td,
+th {
+    border: 1px solid #333;
+}
+a:hover{
+    color: red;
+}
+a{
+
+}
+h1{
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+}
+.subtitle{
+    text-align: center;
+    margin: 0;
+}
